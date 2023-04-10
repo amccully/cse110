@@ -8,8 +8,6 @@
 
 * [My github page](https://github.com/amccully?tab=repositories), which includes some of the projects I've worked on at community college and UCSD.
 
-* To access the README file of this repository, [click here](README.md)
-
 * To read a little bit about me, [click here](#summary)
 
 * To see my computer science coursework experience so far, [click here](#coursework)
