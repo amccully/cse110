@@ -1,12 +1,12 @@
 # Aaron McCully
 
-## Pursing a Bachelor of Science degree in Computer Science
+## Pursing a Bachelor of Science degree in computer science
 
 ---
 
 ### Navigation:
 
-* [My github page](https://github.com/amccully?tab=repositories), which includes some of the projects I've worked on at Community College and UCSD.
+* [My github page](https://github.com/amccully?tab=repositories), which includes some of the projects I've worked on at community college and UCSD.
 
 * To access the README file of this repository, [click here](README.md)
 
